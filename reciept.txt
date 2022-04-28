@@ -1,0 +1,16 @@
+Name: discountme
+Address: discount
+Phone number: disCOUNT 
+Date: 2020-01-22
+Time: DISCOUNT TIME
+
+Spring rolls
+Quantity: 2
+Item total: 13.98
+
+ --------- 
+Total: 13.98
+Savings: 1.4
+New Total: 12.58
+Tax: 1.64
+Grand Total: 14.22
